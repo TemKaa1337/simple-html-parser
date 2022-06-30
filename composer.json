@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "TemKaa1337\\SimpleHtmlParser\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
